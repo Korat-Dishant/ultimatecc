@@ -33,17 +33,17 @@ initialize_embeddings()
 
 @app.post("/ask" ,  summary="pass value using header")
 async def read_items(user_query:str , company_name:str):
-    return {"response": str(ask_ai(companyName = company_name , query= user_query)) }
+    return {"response": str(ask_ai(companyName = company_name.lower() , query= user_query)) }
 
 
 @app.post("/updateIndex" ,  summary="update or create index ")
 async def read_items(companyName:str  ):
-    create_vectorDB(companyName)
+    create_vectorDB(companyName.lower())
 
 
 @app.post("/clearBuffer" ,  summary="clear chat history buffer ")
 async def read_items(buffer_Name:str  ):
-    clearMemory(buffer_Name)
+    clearMemory(buffer_Name.lower())
 
 
 
