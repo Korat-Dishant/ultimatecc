@@ -33,6 +33,16 @@ this is a RAG (Retrieval augmented generation) applicatoin. using this applicati
 ## Note 
 some times while asking questions about previously asked question you might receive something like this "I do not have related data to answer this question". the reason for this is reasoning capabities of LLM. changing LLM to Open-AI model gpt-3.5-turbo-instruct I have found the accuracy of response to be increased. but both the model have their pros and cons I am not blaming gemini as its currently free and still better than many LLMs but i am waiting to try gemini-ultra.
 
+## Strapi 
+snapshots of CMS
+<img width="914" alt="image" src="https://github.com/Korat-Dishant/ultimatecc/assets/86142546/44b0601d-47b1-462c-b3ee-bb9cb922ec43">
+
+<img width="764" alt="image" src="https://github.com/Korat-Dishant/ultimatecc/assets/86142546/dda0deb6-024e-4f4b-8495-76fd1e1ead40">
+
+<img width="757" alt="image" src="https://github.com/Korat-Dishant/ultimatecc/assets/86142546/6cb9548b-f240-4a34-a11e-1618ae73481d">
+
+
+
 ## Server
 
 this entire project is hosted on render.
