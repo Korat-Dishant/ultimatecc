@@ -42,6 +42,8 @@ snapshots of CMS
 <img width="757" alt="image" src="https://github.com/Korat-Dishant/ultimatecc/assets/86142546/6cb9548b-f240-4a34-a11e-1618ae73481d">
 
 
+- you can checkout the github repo of CMS for this project (strapi) [here](https://github.com/Korat-Dishant/ultimatecc-CMS)
+
 
 ## Server
 
@@ -49,7 +51,7 @@ this entire project is hosted on render.
 
 <img width="733" alt="image" src="https://github.com/Korat-Dishant/ultimatecc/assets/86142546/d6cdec32-f166-44bb-b21a-d053d4403066">
 
-- you can checkout the github repo of CMS for this project (strapi) [here](https://github.com/Korat-Dishant/ultimatecc-CMS)
+
 
 ## Links 
 - Swagger Docs of chatbot API : [ultimatecc-backend](https://ultimatecc-backend.onrender.com/docs)
