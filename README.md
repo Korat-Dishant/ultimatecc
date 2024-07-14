@@ -1,6 +1,7 @@
 
 # UltimateCC
 - Upadated version with recomeendation tags and purchase links [ultimateCCv2](https://github.com/Korat-Dishant/ultimateCCv2)
+  
 this is a RAG (Retrieval augmented generation) applicatoin. using this application you can create customized chatbot which would answer to queries base on your provided data.
 
 ## Architecture
